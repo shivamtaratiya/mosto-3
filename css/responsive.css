@@ -292,10 +292,9 @@
         width: 20px;
         height: 1px;
         position: absolute;
-        top: 10px;
-        left: 0;
-        transform: rotate(45deg)translate(-4px, -10px);
-
+        top: 42px;
+        right: 15px;
+        transform: rotate(45deg) translate(-4px, -10px);
     }
 
     .navigation.show-on+.toggle-bar .line-1 {
